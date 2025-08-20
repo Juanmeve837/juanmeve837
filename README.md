@@ -31,13 +31,13 @@
 <td width="50%">
 <h3 align="center">ETL + AppSheet Project</h3>
 <div align="center">
-<a href="h[ttps://github.com/ArisGuimera/Android-Expert](https://github.com/Juanmeve837/ETL_appsheet_googlesheet_colab)" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="ETL + AppSheet Project"></a>
+<a href="https://github.com/Juanmeve837/ETL_appsheet_googlesheet_colab" target="_blank"><img src="https://i.imgur.com/SsRtOa5.png" width="400" alt="ETL + AppSheet Project"></a>
 <p>
-<a href="[https://github.com/ArisGuimera/Android-Expert](https://github.com/Juanmeve837/ETL_appsheet_googlesheet_colab)" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/Juanmeve837/ETL_appsheet_googlesheet_colab" target="_blank">
+<img src="https://img.shields.io/badge/repository-0e6dff">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>This repository contains an ETL pipeline and a small data product built with Google Colab and AppSheet.</p>
 </div>
                                                                                       
 </td>
@@ -46,7 +46,7 @@
                <br>
 <h3 align="center">Proyecto 2</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Proyecto 2"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/SsRtOa5.png" width="400" alt="Proyecto 2"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
