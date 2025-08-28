@@ -46,7 +46,7 @@
                <br>
 <h3 align="center">Proyecto 2</h3>
 <div align="center">                                       
-<a href="https://github.com/Juanmeve837/ML_for_Production_Prediction" target="_blank"><img src="https://i.imgur.com/SsRtOa5.png" width="400" alt="Proyecto 2"></a>
+<a href="https://github.com/Juanmeve837/ML_for_Production_Prediction" target="_blank"><img src="https://i.imgur.com/0VyvI3p.png" width="400" alt="Proyecto 2"></a>
 <br>
 <p>
 <a href="https://github.com/Juanmeve837/ML_for_Production_Prediction" target="_blank">
