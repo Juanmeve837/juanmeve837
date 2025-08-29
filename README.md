@@ -44,7 +44,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Proyecto 2</h3>
+<h3 align="center">Machine Learning for Production Prediction</h3>
 <div align="center">                                       
 <a href="https://github.com/Juanmeve837/ML_for_Production_Prediction" target="_blank"><img src="https://i.imgur.com/0VyvI3p.png" width="400" alt="Proyecto 2"></a>
 <br>
