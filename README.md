@@ -60,6 +60,38 @@ The workflow covers the entire pipeline: from data preprocessing to model traini
 </div>
 <br>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Vehicle Simulation Visualization</h3>
+<div align="center">
+<a href="https://github.com/Juanmeve837/vehicle_simulation_viz" target="_blank"><img src="https://i.imgur.com/ngCsgch.gif" width="400" alt="Vehicle Simulation Visualization"></a>
+<p>
+<a href="https://github.com/Juanmeve837/vehicle_simulation_viz" target="_blank">
+<img src="https://img.shields.io/badge/repository-0e6dff">
+</p>
+<p>This project provides a set of tools and visualizations for analyzing and simulating vehicle activity data.
+The goal is to transform raw vehicle activity logs into meaningful visual insights for performance analysis, traffic dynamics, and resource utilization..</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">proyecto4</h3>
+<div align="center">
+<a href="" target="_blank"><img src="" width="400" alt="C"></a>
+<p>
+<a href="https://github.com/Juanmeve837/ML_for_Production_Prediction" target="_blank">
+<img src="https://img.shields.io/badge/repository-0e6dff">
+</p>
+<p>A.</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
