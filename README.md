@@ -46,7 +46,7 @@
                <br>
 <h3 align="center">Machine Learning for Production Prediction</h3>
 <div align="center">                                       
-<a href="https://github.com/Juanmeve837/ML_for_Production_Prediction" target="_blank"><img src="https://i.imgur.com/0VyvI3p.png" width="400" alt="Proyecto 2"></a>
+<a href="https://github.com/Juanmeve837/ML_for_Production_Prediction" target="_blank"><img src="https://i.imgur.com/0VyvI3p.png" width="350" alt="Proyecto 2"></a>
 <br>
 <p>
 <a href="https://github.com/Juanmeve837/ML_for_Production_Prediction" target="_blank">
@@ -77,14 +77,14 @@ The goal is to transform raw vehicle activity logs into meaningful visual insigh
 </td>       
 
 <td width="50%">
-<h3 align="center">proyecto4</h3>
+<h3 align="center">Demand Forecasting with Machine Learning</h3>
 <div align="center">
-<a href="" target="_blank"><img src="" width="400" alt="C"></a>
+<a href="https://github.com/Juanmeve837/Demand_forcast_jfm" target="_blank"><img src="https://github.com/Juanmeve837/Demand_forcast_jfm/blob/master/bike_mini.png" width="300" alt="Demand Forecasting with Machine Learning"></a>
 <p>
-<a href="https://github.com/Juanmeve837/ML_for_Production_Prediction" target="_blank">
+<a href="https://github.com/Juanmeve837/Demand_forcast_jfm" target="_blank">
 <img src="https://img.shields.io/badge/repository-0e6dff">
 </p>
-<p>A.</p>
+<p>This repository presents a complete workflow for demand forecasting using historical data of bike rentals, its a KAGGLE challenger.</p>
 </div>
                                                                                       
 </td>  
