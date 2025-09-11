@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a>Juan Fernando Mesa</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/aPug0Im.png">  
+<img src="https://github.com/Juanmeve837/juanmeve837/blob/main/banner.png">  
 
 
 
